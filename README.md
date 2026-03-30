@@ -9,3 +9,4 @@ Separate storage of binary files for EcoAssist, so that the user doesn't have to
 <img width="1190" height="589" alt="false-detection__doc-wee__94f44a1a" src="https://github.com/user-attachments/assets/1519ff1d-1033-460c-81e6-76143349bd34" />
 <img width="2443" height="2524" alt="other-bird__doc-kvi__b4d4a33e" src="https://github.com/user-attachments/assets/30af1dce-77cd-4f1f-9d32-6c38de21d324" />
 
+<img width="2443" height="754" alt="other-bird__doc-kvi__b4d4a33e" src="https://github.com/user-attachments/assets/530e1943-f101-4110-8b5d-8b19c12a5b3e" />
