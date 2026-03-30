@@ -3,6 +3,9 @@
 EDIT June 2025 - do not remove, there are assets here that AddaxAI depends on. 
 
 Separate storage of binary files for EcoAssist, so that the user doesn't have to clone all images which won't be used at runtime.
-<img width="1624" height="966" alt="Screenshot 2026-03-27 at 11 08 19" src="https://github.com/user-attachments/assets/c244fc1e-7419-4d83-bb69-e44578f2b79b" />
 
-<img width="1624" height="966" alt="Screenshot 2026-03-27 at 11 08 30" src="https://github.com/user-attachments/assets/e1651680-7fce-4a27-8a21-10cb59e21408" />
+
+
+<img width="1190" height="589" alt="false-detection__doc-wee__94f44a1a" src="https://github.com/user-attachments/assets/1519ff1d-1033-460c-81e6-76143349bd34" />
+<img width="2443" height="2524" alt="other-bird__doc-kvi__b4d4a33e" src="https://github.com/user-attachments/assets/30af1dce-77cd-4f1f-9d32-6c38de21d324" />
+
