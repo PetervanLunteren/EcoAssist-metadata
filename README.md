@@ -1,14 +1,11 @@
-# Metadata
+Read me I use to drag and drop images to get public URLs to images. 
 
-EDIT June 2025 - do not remove, there are assets here that AddaxAI depends on. 
 
-Separate storage of binary files for EcoAssist, so that the user doesn't have to clone all images which won't be used at runtime.
-
-<img width="1604" height="946" alt="Screenshot 2026-07-04 at 00 04 55" src="https://github.com/user-attachments/assets/4afb46b4-5890-4f0e-9c42-5cf7eb482cf8" />
-<img width="1604" height="946" alt="Screenshot 2026-07-04 at 00 02 54" src="https://github.com/user-attachments/assets/5e4e4b2b-c02b-432b-b579-010348367849" />
-<img width="1604" height="946" alt="Screenshot 2026-07-04 at 00 02 21" src="https://github.com/user-attachments/assets/0b50bf64-973a-4151-b7e2-137cecb3acd3" />
-<img width="1604" height="946" alt="Screenshot 2026-07-04 at 00 01 42" src="https://github.com/user-attachments/assets/eee9302c-15f0-474b-85a7-6efd8731b151" />
-<img width="1604" height="946" alt="Screenshot 2026-07-04 at 00 01 35" src="https://github.com/user-attachments/assets/72a6526d-d8f7-4a79-84d3-aa8be3c1e6df" />
-<img width="1604" height="946" alt="Screenshot 2026-07-03 at 23 59 52" src="https://github.com/user-attachments/assets/1931eb59-b7ab-4b6e-8a40-cd5a9cf3327f" />
-<img width="1604" height="946" alt="Screenshot 2026-07-03 at 23 59 42" src="https://github.com/user-attachments/assets/3b0e1674-4ff6-45af-b78d-fbc827524696" />
-
+<img width="375" height="667" alt="IMG_4403" src="https://github.com/user-attachments/assets/c6152f5a-3d56-4cb2-bb00-331ce49887b7" />
+<img width="375" height="667" alt="IMG_4402" src="https://github.com/user-attachments/assets/6591ecad-f8d0-4eab-ada3-e315c0367172" />
+<img width="375" height="667" alt="IMG_4401" src="https://github.com/user-attachments/assets/c08f0c21-7ce5-48ae-ae6e-165ad070565e" />
+<img width="375" height="667" alt="IMG_4400" src="https://github.com/user-attachments/assets/d7718a6d-f740-466e-831e-bbd517e06b4c" />
+<img width="375" height="667" alt="IMG_4399" src="https://github.com/user-attachments/assets/88c25630-6f7f-4278-89a9-f8b410169814" />
+<img width="375" height="667" alt="IMG_4398" src="https://github.com/user-attachments/assets/435fdf8e-520f-4077-9453-9c8b81d3ca13" />
+<img width="375" height="667" alt="IMG_4397" src="https://github.com/user-attachments/assets/1354787f-35ea-4cc7-9b4f-8e4862fb2e9f" />
+<img width="375" height="667" alt="IMG_4394" src="https://github.com/user-attachments/assets/0017958d-ddf5-4155-b80f-346915d25cf2" />
