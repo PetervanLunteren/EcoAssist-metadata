@@ -3,5 +3,5 @@ Read me I use to drag and drop images to get public URLs to images.
 
 
 
-<img width="1512" height="1012" alt="Screenshot 2026-07-28 at 16 34 19" src="https://github.com/user-attachments/assets/18187698-57f3-4f07-8dbe-593d2e5e76db" />
+<img width="1485" height="812" alt="screenshot-1786819944629-0" src="https://github.com/user-attachments/assets/2e8ceee4-00eb-4727-81d9-ef8a3459ec16" />
 
